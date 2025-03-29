@@ -1,6 +1,6 @@
 {
     "voicelines": [
-        { "path": "Giggity_giggity_goo.mp3", "text": "I'm Glenn Quagmire" },
-        { "path": "I'm_Glenn_Quagmire.mp3", "text": "Giggity giggity giggity giggity giggity goo" }
+        { "path": "Giggity_giggity_goo.mp3", "text": "Giggity giggity giggity giggity giggity goo" },
+        { "path": "I'm_Glenn_Quagmire.mp3", "text": "I'm Glenn Quagmire" }
     ]
 }
